@@ -1,4 +1,4 @@
-![LunarVim Demo](./utils/media/lunarvim_logo_dark.png)
+![LunarVim Demo](./utils/media/lunarvim_logo_dark.png)荣荣荣荣荣荣荣荣
 
 <div align="center"><p>
     <a href="https://github.com/ChristianChiarulli/LunarVim/releases/latest">
