@@ -1,7 +1,7 @@
 # Contributing to LunarVim
 
 Welcome to the LunarVim contributing guide. We are excited about the prospect of you joining our [community](https://github.com/ChristianChiarulli/LunarVim/graphs/contributors)!
-
+fffffffffffffffffffffffffffffqeqeq
 There are many opportunities to contributing to the project at any level. Every contribution is highly valued and no contribution is too small.
 
 You do not need to write code to contribute to this project. Documentation, demos, and feature design advancements are a key part of this project's growth.
